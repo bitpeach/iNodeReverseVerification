@@ -10,7 +10,7 @@ KeyWords：iNode Reverse; Verification ;Simple Script
 
 ####Introduction
 
-######[1]Purpose of iNodeReverseVerification:
+#####[1]Purpose of iNodeReverseVerification:
 
 ######(1.1) My honor to predecessors including liuqun, humiaozuzu and bitdust in Github. My work about iNode reversing verification inherits from the policies and emulate the style of predecessors.
 
@@ -43,7 +43,7 @@ https://github.com/liuqun/njit8021xclient/blob/master/Documents.html
 
 ####引言
 
-######[1]本分支文档存在的主要目的有两个：
+#####[1]本分支文档存在的主要目的有两个：
 
 ######（1.1）致敬前辈，包括Github平台原分支liuqun/njit8021xclient，humiaozuzu/YaH3C。以及修改跟进分支bitdust/njit8021xclient和bitdust/YaH3C。向他们学习。
 
@@ -63,4 +63,4 @@ https://github.com/liuqun/njit8021xclient/blob/master/Documents.html
 
 * P.S.做一个“广告”推广，bitdust制作的Windows可执行程序iNode替代版NXSharp很不错
 
-*   地址是https://github.com/bitdust/njit8021xclient/tree/win32_GUI/Nxsharp
+*     地址是https://github.com/bitdust/njit8021xclient/tree/win32_GUI/Nxsharp

@@ -10,9 +10,9 @@ KeyWords：iNode Reverse; Verification ;Simple Script
 
 ####Introduction
 
- #####[1]Purpose of iNodeReverseVerification:
+#####> [1]Purpose of iNodeReverseVerification:
 
-  ######(1.1) My honor to predecessors including liuqun, humiaozuzu and bitdust in Github. My work about iNode reversing verification inherits from the policies and emulate the style of predecessors.
+######>> (1.1) My honor to predecessors including liuqun, humiaozuzu and bitdust in Github. My work about iNode reversing verification inherits from the policies and emulate the style of predecessors.
 
 `FORK FROM their great work`
 

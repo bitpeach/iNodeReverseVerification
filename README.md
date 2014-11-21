@@ -5,9 +5,11 @@ KeyWords：iNode Reverse; Verification ;Simple Script
 
 关键词：iNode逆向；验证；简单脚本
 
+------------------------------------------------------------------------
+###英文说明
 
 ###Introduction
-------------------------------------------------------------------------
+
 ####[1]Purpose of iNodeReverseVerification:
 
 ######(1.1) My honor to predecessors including liuqun, humiaozuzu and bitdust in Github. My work about iNode reversing verification inherits from the policies and emulate the style of predecessors.
@@ -36,8 +38,11 @@ https://github.com/liuqun/njit8021xclient/blob/master/Documents.html
 
 #####(2.4) There are no struct of packet in this file or my Python scripts.And I have told that these files are just simple experiment, even just a test. 
 
-###引言
 ------------------------------------------------------------------------
+###中文说明
+
+###引言
+
 ####[1]本分支文档存在的主要目的有两个：
 
 #####（1.1）致敬前辈，包括Github平台原分支liuqun/njit8021xclient，humiaozuzu/YaH3C。以及修改跟进分支bitdust/njit8021xclient和bitdust/YaH3C。向他们学习。

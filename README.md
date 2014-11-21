@@ -10,9 +10,9 @@ KeyWords：iNode Reverse; Verification ;Simple Script
 
 ####Introduction
 
-#####>[1]Purpose of iNodeReverseVerification:
+##### [1]Purpose of iNodeReverseVerification:
 
-######>>(1.1) My honor to predecessors including liuqun, humiaozuzu and bitdust in Github. My work about iNode reversing verification inherits from the policies and emulate the style of predecessors.
+######  (1.1) My honor to predecessors including liuqun, humiaozuzu and bitdust in Github. My work about iNode reversing verification inherits from the policies and emulate the style of predecessors.
 
 `FORK FROM their great work`
 
@@ -24,7 +24,7 @@ KeyWords：iNode Reverse; Verification ;Simple Script
 
 * https://github.com/bitdust/YaH3C
 
-######>>(1.2) I want to help you if you are interested in reversing iNode so that these iNodeReverseVerification just hold a simple introduction by Python scripts to guide you to analyze iNode.
+######  (1.2) I want to help you if you are interested in reversing iNode so that these iNodeReverseVerification just hold a simple introduction by Python scripts to guide you to analyze iNode.
 
 #####>[2]Content of iNodeReverseVerification:
 
